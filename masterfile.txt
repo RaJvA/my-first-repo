@@ -1,0 +1,2 @@
+HEllo everyone!
+This line has been added from branch master2
