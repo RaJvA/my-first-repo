@@ -1,2 +1,2 @@
 HEllo everyone!
-This has been added from branch master1
+This line has been added from branch master
